@@ -1,0 +1,25 @@
+{
+  "mode": "ollama",
+  "simulated": false,
+  "dataset_file": "data/harmful-behaviors.csv",
+  "dataset_size": 100,
+  "dataset_sha256": "4a8ec6832056b631eb092dccc60d37a61c3d441268268888b3d006288afeffa1",
+  "seed_list": [
+    0
+  ],
+  "setups": {
+    "reproduction": [
+      30,
+      3
+    ]
+  },
+  "models": {
+    "attacker": "llama3.2:3b",
+    "target": "llama3.2:3b",
+    "judge": "llama-guard3:1b"
+  },
+  "completed_behavior_runs": 100,
+  "target_model_calls": 4022,
+  "elapsed_seconds_this_session": 452.52,
+  "note": "Local model evaluation; not an exact reproduction of original models"
+}

@@ -1,0 +1,8 @@
+Model,Published_JB_pct,Published_Queries_per_success,Source
+Vicuna-13B-v1.5,88,10.0,Chao et al. Table 2
+Llama-2-7B-chat,4,56.0,Chao et al. Table 2
+GPT-3.5-Turbo,51,33.0,Chao et al. Table 2
+GPT-4,48,23.7,Chao et al. Table 2
+Claude-1,3,13.7,Chao et al. Table 2
+Claude-2,0,NA,Chao et al. Table 2
+Gemini-Pro,73,23.5,Chao et al. Table 2

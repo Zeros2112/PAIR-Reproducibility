@@ -1,0 +1,3 @@
+setup,seeds,mean_success_pct,sd_success_pct,mean_queries_per_success
+breadth,3,71.67,2.89,12.46
+depth,3,75.0,0.0,10.6
