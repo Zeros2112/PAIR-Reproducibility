@@ -1,0 +1,2 @@
+method,unique_behaviors,categories,behaviors_per_category,bootstrap_samples,bootstrap_seed,confidence_level,observed_difference_pp,ci_lower_pp,ci_upper_pp,interval_includes_zero
+Category-stratified paired cluster bootstrap,20,10,2,10000,2026,0.95,3.3333333333333335,-1.6666666666666663,8.333333333333334,True
