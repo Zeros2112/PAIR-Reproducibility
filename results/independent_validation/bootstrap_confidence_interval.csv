@@ -1,0 +1,2 @@
+method,unique_behaviors,matched_observations,bootstrap_samples,bootstrap_seed,confidence_level,observed_difference_pp,ci_lower_pp,ci_upper_pp,interval_includes_zero
+Paired behavior-level cluster bootstrap,20,60,10000,2026,0.95,3.3333333333333335,-6.666666666666667,11.666666666666666,True
